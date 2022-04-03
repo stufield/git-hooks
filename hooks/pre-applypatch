@@ -1,0 +1,4 @@
+#!/bin/sh
+#
+echo "* pre-applypatch hook ..."
+sleep 1.0

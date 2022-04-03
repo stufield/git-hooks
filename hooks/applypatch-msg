@@ -1,0 +1,4 @@
+#!/bin/sh
+#
+echo "* applypatch-msg hook ..."
+sleep 1.0
